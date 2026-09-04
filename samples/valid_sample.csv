@@ -1,0 +1,17 @@
+areaName,city,zone,latitude,longitude,date,temperature,humidity,rainfall,traffic,populationDensity,buildingDensity,vegetation,landUse
+Central Financial District,Metro City,Central Zone,28.6139,77.2090,2026-09-10T14:00:00Z,39.5,48,0,88,16500,88,12,Commercial
+East Industrial Corridor,Metro City,East Zone,28.6315,77.2800,2026-09-10T14:00:00Z,38.8,42,0,92,9200,82,8,Industrial
+North Garden Hills,Metro City,North Zone,28.7041,77.1025,2026-09-10T14:00:00Z,31.2,64,0,35,6400,42,56,Residential
+South Tech Campus,Metro City,South Zone,28.5355,77.2410,2026-09-10T14:00:00Z,36.5,52,0,76,13800,74,22,Commercial
+West Residential Belt,Metro City,West Zone,28.6280,77.0850,2026-09-10T14:00:00Z,34.0,58,0,54,11500,62,32,Residential
+Riverside Eco Reserve,Metro City,Green Zone,28.5800,77.3000,2026-09-10T14:00:00Z,27.6,72,0,14,1800,8,84,Green Space
+Metro Transit Interchange,Metro City,Central Zone,28.6400,77.2180,2026-09-10T14:00:00Z,38.2,50,0,94,14800,80,14,Transportation
+University & Medical District,Metro City,North Zone,28.6900,77.1600,2026-09-10T14:00:00Z,32.0,60,0,48,8200,52,46,Institutional
+Harbor Logistics Depot,Metro City,Outer Zone,28.5000,77.1200,2026-09-10T14:00:00Z,37.8,46,0,86,4100,70,10,Industrial
+Suburban Green Valley,Metro City,Outer Zone,28.4600,77.3200,2026-09-10T14:00:00Z,29.5,68,0,28,5200,36,68,Mixed Use
+Central Financial District,Metro City,Central Zone,28.6139,77.2090,2026-09-11T14:00:00Z,40.1,45,0,90,16500,88,12,Commercial
+East Industrial Corridor,Metro City,East Zone,28.6315,77.2800,2026-09-11T14:00:00Z,39.4,40,0,95,9200,82,8,Industrial
+North Garden Hills,Metro City,North Zone,28.7041,77.1025,2026-09-11T14:00:00Z,31.8,62,0,38,6400,42,56,Residential
+South Tech Campus,Metro City,South Zone,28.5355,77.2410,2026-09-11T14:00:00Z,37.0,50,0,78,13800,74,22,Commercial
+Riverside Eco Reserve,Metro City,Green Zone,28.5800,77.3000,2026-09-11T14:00:00Z,28.0,70,0,16,1800,8,84,Green Space
+New Frontier Sector,Metro City,Outer Zone,28.4200,77.3500,2026-09-12T14:00:00Z,35.2,55,0,42,3200,25,40,Mixed Use

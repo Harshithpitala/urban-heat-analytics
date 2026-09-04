@@ -1,0 +1,11 @@
+areaName,city,zone,latitude,longitude,date,temperature,humidity,rainfall,traffic,populationDensity,buildingDensity,vegetation,landUse
+Central Financial District,Metro City,Central Zone,28.6139,77.2090,2026-08-05T14:00:00Z,39.2,46,0,88,16500,88,12,Commercial
+Error Zone A - Missing Temp,Metro City,East Zone,28.6315,77.2800,2026-08-05T14:00:00Z,,55,0,80,9200,82,10,Industrial
+Error Zone B - Invalid Date,Metro City,North Zone,28.7041,77.1025,2026-99-99T99:99,32.5,60,0,40,6400,42,50,Residential
+Error Zone C - High Humidity,Metro City,South Zone,28.5355,77.2410,2026-08-05T14:00:00Z,35.0,145,0,70,13800,74,20,Commercial
+Error Zone D - Negative Rain,Metro City,West Zone,28.6280,77.0850,2026-08-05T14:00:00Z,33.5,60,-12,50,11500,62,30,Residential
+Error Zone E - Invalid Lat,Metro City,Outer Zone,142.5000,77.1200,2026-08-05T14:00:00Z,36.0,50,0,60,4100,70,15,Industrial
+Error Zone F - Invalid LandUse,Metro City,Green Zone,28.5800,77.3000,2026-08-05T14:00:00Z,28.0,70,0,15,1800,8,80,Radioactive Wasteland
+Warning Zone - High Heat,Metro City,Central Zone,28.6139,77.2090,2026-08-06T14:00:00Z,49.2,35,0,92,16500,88,10,Commercial
+Central Financial District,Metro City,Central Zone,28.6139,77.2090,2026-08-05T14:00:00Z,39.2,46,0,88,16500,88,12,Commercial
+Riverside Eco Reserve,Metro City,Green Zone,28.5800,77.3000,2026-08-06T14:00:00Z,27.5,74,0,12,1800,8,85,Green Space
